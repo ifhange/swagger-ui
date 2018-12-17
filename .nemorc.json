@@ -1,0 +1,8 @@
+{
+  "detect_folder": "/spec",
+  "branch": [
+    "master",
+    "develop"
+  ],
+  "output": "/spec"
+}
